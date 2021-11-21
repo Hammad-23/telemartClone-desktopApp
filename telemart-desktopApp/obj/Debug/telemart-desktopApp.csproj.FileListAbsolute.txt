@@ -1,0 +1,11 @@
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\bin\Debug\telemart-desktopApp.exe.config
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\bin\Debug\telemart-desktopApp.exe
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\bin\Debug\telemart-desktopApp.pdb
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart-desktopApp.csprojAssemblyReference.cache
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart_desktopApp.Form1.resources
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart_desktopApp.Properties.Resources.resources
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart-desktopApp.csproj.GenerateResource.cache
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart-desktopApp.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart-desktopApp.exe
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart-desktopApp.pdb
+D:\Object Oriented Programming\telemart-desktopApp\telemart-desktopApp\obj\Debug\telemart_desktopApp.Login.resources
